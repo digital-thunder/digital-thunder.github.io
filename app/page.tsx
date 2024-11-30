@@ -1,7 +1,6 @@
 "use client";
 
 import { Anchor, Layout, Row, Typography, Card, Col, Avatar } from "antd";
-import { useState } from "react";
 
 const { Title, Paragraph } = Typography;
 const { Content } = Layout;
