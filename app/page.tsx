@@ -5,7 +5,7 @@ import { Anchor, Layout, Row, Typography, Card, Col, Avatar } from "antd";
 const { Title, Paragraph } = Typography;
 const { Content } = Layout;
 
-export const Home = () => {
+export default function Home() {
 
   // Anchor Items Data
   const anchorItems = [
