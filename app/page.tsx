@@ -7,7 +7,6 @@ const { Title, Paragraph } = Typography;
 const { Content } = Layout;
 
 export default function Home() {
-  const [current, setCurrent] = useState('home');
 
   // Anchor Items Data
   const anchorItems = [
